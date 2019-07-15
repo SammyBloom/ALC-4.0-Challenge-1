@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ALC 4.0: Phase 1 Challenge-Android (Samuel Nwanwobi)</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="about">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="name">Nwanwobi Samuel C.</string>
+    <string name="country">Nigeria</string>
+    <string name="track">Track</string>
+    <string name="android">Android</string>
+    <string name="slack_username">Slack Username</string>
+    <string name="email_string">Email:</string>
+    <string name="email">nwachiemi@gmail.com</string>
+    <string name="phoneNo">Phone Number:</string>
+    <string name="number">+234-7031146188</string>
+    <string name="contact">Contact</string>
+    <string name="launch_name">ALC 4.0 Challenge</string>
+    <string name="ALC">Andela Learning Community</string>
+    <string name="first_writeup">Equiping today\'s leaders and raising tomorrow\'a leaders.</string>
+    <string name="read">READ MORE</string>
+    <string name="working_together">Working Together</string>
+    <string name="second_writeup">Journey of a thousand miles begins with a step</string>
+    <string name="profile">PROFILE</string>
+    <string name="nwachiemi">nwachiemi</string>
+</resources>
